@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1LinearSearch/1LinearSearch.iml" filepath="$PROJECT_DIR$/1LinearSearch/1LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2SelectionSort/2SelectionSort.iml" filepath="$PROJECT_DIR$/2SelectionSort/2SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3InsertionSort/3InsertionSort.iml" filepath="$PROJECT_DIR$/3InsertionSort/3InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4Array/4Array.iml" filepath="$PROJECT_DIR$/4Array/4Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5Stack/5Stack.iml" filepath="$PROJECT_DIR$/5Stack/5Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6Queue/6Queue.iml" filepath="$PROJECT_DIR$/6Queue/6Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7LinkedList/7LinkedList.iml" filepath="$PROJECT_DIR$/7LinkedList/7LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8MergeSort/8MergeSort.iml" filepath="$PROJECT_DIR$/8MergeSort/8MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9QuickSort/9QuickSort.iml" filepath="$PROJECT_DIR$/9QuickSort/9QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm.iml" />
+    </modules>
+  </component>
+</project>
